@@ -3,8 +3,6 @@
 // Author: Taylor Lenog
 // Date: 2021/05/15
 
-#include <fstream>
-#include <iostream>
 #include <string>
 #include <vector>
 #include "Room.h"
