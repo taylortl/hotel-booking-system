@@ -1,7 +1,7 @@
 # Hotel Booking System
 **Author: Taylor Leong**
 
-***About This Program*** 
+***About This Program*** \
 The program provides a hotel booking system for input file with the following format: 
 Check In Date, Customer ID, Number of Beds Requested, Duration 
 16/1/2015, AK3B623TEJ, 3, 15 
