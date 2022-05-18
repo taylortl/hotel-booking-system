@@ -17,6 +17,6 @@ The program assigns rooms to customers according to their requested number of be
 the system will assign more than 1 room to the customer. On the other hand, the system will assign rooms with more bed than requested 
 if there's no room contains the exact number of beds requested. 
 
-The user interface of this program is not yet designed, this program is just the backend of the booking system.
+This program is just the backend of the booking system.
 
 
