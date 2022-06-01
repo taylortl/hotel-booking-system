@@ -1,4 +1,4 @@
-# Hotel Booking System
+# Hotel Booking System (Course work)
 **Author: Taylor Leong**
 
 ***About This Program*** \
@@ -17,6 +17,5 @@ The program assigns rooms to customers according to their requested number of be
 the system will assign more than 1 room to the customer. On the other hand, the system will assign rooms with more bed than requested 
 if there's no room contains the exact number of beds requested. 
 
-This program is just the backend of the booking system.
 
 
